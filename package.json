@@ -1,0 +1,21 @@
+{
+  "name": "lerna-demo-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5",
+    "import-local": "^3.2.0",
+    "npmlog": "^7.0.1",
+    "path-exists": "^5.0.0",
+    "semver": "^7.6.3",
+    "user-home": "^3.0.0"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "@jking-lwj/log",
+  "version": "1.0.17",
+  "description": "> TODO: description",
+  "author": "lwjmzla <214245088@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "type": "module",
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:jking123/lerna-demo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+  }
+}
