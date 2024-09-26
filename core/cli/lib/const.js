@@ -1,6 +1,6 @@
 
 const DEFAULT_CLI_HOME = '.imooc-cli-dev'
 
-module.exports = {
+export default {
   DEFAULT_CLI_HOME
 }
